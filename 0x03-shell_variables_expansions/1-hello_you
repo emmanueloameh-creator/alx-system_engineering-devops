@@ -1,4 +1,2 @@
 #!/bin/bash
 printf "hello %s\n" "$USER"
-in/bash
-in/bash
